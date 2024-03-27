@@ -20,10 +20,6 @@ Second semester of girafe-ai Machine Learning course
 | 24.04.2023     | Week11. Embeddings and seq2seq model | [Запись лекции](https://youtu.be/kUAnB_Leg6E) [Запись семинара](https://youtu.be/KOIEozoCQo0)   | [Слайды](https://github.com/girafe-ai/ml-course/blob/22f_basic/week0_09_embeddings_and_seq2seq/lect009_Language_models_and_RNN.pdf) | | | |  | 
 
 
-
-## Prerequisites
-Prerequisites are located [here](./prerequisites.md).
-
 ## Literature:
 1. [YSDA ML Book](https://education.yandex.ru/handbook/ml) (Russian only)
 2. Probabilistic Machine Learning: An Introduction; [English link](https://probml.github.io/pml-book/book1.html), [Русский перевод](https://dmkpress.com/catalog/computer/data/978-5-93700-119-1/)
