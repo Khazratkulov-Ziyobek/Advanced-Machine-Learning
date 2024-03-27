@@ -1,4 +1,4 @@
-# Machine Learning course
+# Advanced Machine Learning course
 
 Second semester of girafe-ai Machine Learning course
 
